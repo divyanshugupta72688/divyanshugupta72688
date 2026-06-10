@@ -9,8 +9,8 @@ responsive and scalable web applications.
 ⚙️ Backend: Node.js, Express.js
 🗄️ Database: MongoDB
 
-🚀 Projects: E-Commerce App, Wanderlust Travel App,
-             Chatting Application, 14 JS Mini Projects
+🚀 Projects: E-Commerce App,
+             Chatting Application,  JS Mini Projects
 
 I have experience building full-stack applications, working with
 REST APIs, and implementing CRUD operations.
