@@ -2,8 +2,8 @@
 
 Hi, I'm Divyanshu Gupta 👋
 
-I'm a fresher and Full Stack Developer passionate about building
-responsive and scalable web applications.
+Full Stack Developer | React • Node.js • MongoDB
+Open to internships | Building real-world projects
 
 💻 Frontend: HTML, CSS, JavaScript, React
 ⚙️ Backend: Node.js, Express.js
