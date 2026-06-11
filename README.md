@@ -5,12 +5,10 @@ Hi, I'm Divyanshu Gupta 👋
 Full Stack Developer | React • Node.js • MongoDB
 Open to internships | Building real-world projects
 
-💻 Frontend: HTML, CSS, JavaScript, React
-⚙️ Backend: Node.js, Express.js
-🗄️ Database: MongoDB
+
 
 🚀 Projects: E-Commerce App,
-             Chatting Application,  JS Mini Projects
+             text Utility,  JS Mini Projects
 
 I have experience building full-stack applications, working with
 REST APIs, and implementing CRUD operations.
